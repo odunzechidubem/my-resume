@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+div li {
+  background-color: greenyellow;
+}
+
+ol {
+  background-color: gold;
+  text-align: right;
+}
